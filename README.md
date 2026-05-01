@@ -1,5 +1,4 @@
-# Titanic-Visualization-Dashboard
-# Titanic Visualization Dashboard 🚢
+# Titanic-Visualization-Dashboard 🚢
 
 ## 📌 Overview
 
